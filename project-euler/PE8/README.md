@@ -6,7 +6,7 @@ Given a 1000-digit number, find the thirteen adjacent digits whose product is th
 
 ## Approach
 
-Read the full 1000-digit number as a sequence of smaller input lines and concatenated them into a single string. Then used a sliding window of 13 consecutive digits across the string: for each window, computed the product of its digits and kept track of the largest product found. Each digit character was converted to its numeric value by subtracting the ASCII code for `'0'`.
+Read the full 1000-digit number as a single string. Then used a sliding window of 13 consecutive digits across the string: for each window, computed the product of its digits and kept track of the largest product found. Each digit character was converted to its numeric value by subtracting the ASCII code for `'0'`.
 
 Since the product of 13 digits (up to `9^13`, roughly 2.5 trillion) can exceed the range of a 32-bit `int`, the product is accumulated using `long long` to avoid overflow.
 
