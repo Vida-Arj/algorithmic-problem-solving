@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+string s, t;
+long long Max, temp;
+int main(){
+    for(int i = 0; i < 20; i++){
+        cin >> t;
+        s += t;
+    }
+    for(int i = 0; i+12 < s.size(); i++){
+        temp = 1;
+        for(int j = i; j < i+13; j++)
+            temp *= ((int)s[j] - 48);
+        if (temp > Max)
+            Max = temp;
+        }
+    cout << Max;
+}
