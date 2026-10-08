@@ -2,7 +2,7 @@
 
 ## Problem
 
-A row of N vertical stripes is to be coloured using white, blue, and red, subject to two rules: no two neighbouring stripes may share a colour, and every blue stripe must sit directly between a white stripe and a red stripe (in either order). Given N between 1 and 45, determine how many different colourings are possible. For example, N = 3 allows 4: white-red-white, red-white-red, white-blue-red, and red-blue-white.
+A row of N stripes is to be coloured using white, blue, and red, subject to two rules: no two neighbouring stripes may share a colour, and every blue stripe must sit directly between a white stripe and a red stripe (in either order). Given N between 1 and 45, determine how many different colourings are possible. For example, N = 3 allows 4: white-red-white, red-white-red, white-blue-red, and red-blue-white.
 
 ## Approach
 
@@ -15,11 +15,11 @@ A blue stripe needs a neighbour on both sides, so it can never be the first or l
 
 These two cases never overlap and together cover every valid colouring, so `dp[i] = dp[i - 1] + dp[i - 2]`.
 
-The base cases are `dp[1] = 2` (a single white or red stripe, since blue cannot stand alone) and `dp[2] = 2` (white-red and red-white, since blue cannot be at an end). This is the Fibonacci recurrence, with `dp[n]` equal to twice the n-th Fibonacci number.
+The base cases are `dp[1] = 2` (a single white or red stripe, since blue cannot stand alone) and `dp[2] = 2` (white-red and red-white, since blue cannot be at an end). This is the Fibonacci recurrence: with `F(1) = F(2) = 1`, `dp[n]` equals `2 * F(n)`.
 
 For N = 45 the answer is 2,269,806,340, which exceeds the range of a signed 32-bit integer, so 64-bit integers are used.
 
 The program reads N from standard input and prints the number of valid colourings.
 
-- **Time complexity:** `O(n)`, where `n = N` is the number of stripes — each value is computed once from the two before it.
+- **Time complexity:** `O(n)`, where `n` is the number of stripes — each value is computed once from the two before it.
 - **Space complexity:** `O(n)`, for the table of counts (this could be reduced to `O(1)` by keeping only the last two values).
