@@ -2,7 +2,7 @@
 
 ## Problem
 
-Given a number S between 1 and 81, count how many integers from 1 up to 1,000,000,000 (inclusive) have digits that add up to exactly S. For S = 1 the answer is 10.
+Given a number S between 1 and 81, count how many integers from 1 up to 1,000,000,000 (inclusive) have digits that add up to exactly S. The program reads S from standard input and prints the count. For S = 1 the answer is 10.
 
 ## Approach
 

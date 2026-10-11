@@ -3,8 +3,8 @@ using namespace std;
 #define int long long
 int s, dp[15][90], ans;
 int VF(int d, int s){
-    if(s < 0)
-        return 0;
+	if(s < 0)
+		return 0;
 	if(d == 0){
 		if(s == 0)
 			return 1;
