@@ -29,10 +29,10 @@ algorithmic-problem-solving/
 ├── LICENSE
 ├── .gitignore
 ├── project-euler/
-│   ├── PE01/
+│   ├── PE001/
 │   │   ├── solution.cpp
 │   │   └── README.md
-│   ├── PE02/
+│   ├── PE002/
 │   │   ├── solution.cpp
 │   │   └── README.md
 │   └── ...
