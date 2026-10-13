@@ -1,5 +1,7 @@
 # Timus - Problem 1225
 
+[Original problem on Timus Online Judge](https://acm.timus.ru/problem.aspx?space=1&num=1225)
+
 ## Problem
 
 A row of N stripes is to be coloured using white, blue, and red, subject to two rules: no two neighbouring stripes may share a colour, and every blue stripe must sit directly between a white stripe and a red stripe (in either order). Given N between 1 and 45, determine how many different colourings are possible. For example, N = 3 allows 4: white-red-white, red-white-red, white-blue-red, and red-blue-white.

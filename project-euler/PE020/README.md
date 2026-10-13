@@ -1,5 +1,7 @@
 # Project Euler - Problem 20
 
+[Original problem on Project Euler](https://projecteuler.net/problem=20)
+
 ## Problem
 
 A factorial, written as n!, is the product of every integer from n down to 1. For example, 10! works out to 3628800, and adding up its digits (3, 6, 2, 8, 8, 0, and 0) gives 27. Using that same idea, determine the digit sum of 100!.

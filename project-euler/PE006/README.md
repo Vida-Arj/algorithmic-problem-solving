@@ -1,5 +1,7 @@
 # Project Euler - Problem 6
 
+[Original problem on Project Euler](https://projecteuler.net/problem=6)
+
 ## Problem
 
 The sum of the squares of the first ten natural numbers is 385. The square of the sum of the first ten natural numbers is 3025. The difference between these two values is 2640. Find the difference between the sum of the squares and the square of the sum of the first one hundred natural numbers.

@@ -1,5 +1,7 @@
 # Project Euler - Problem 67
 
+[Original problem on Project Euler](https://projecteuler.net/problem=67)
+
 ## Problem
 
 This is the same challenge as Problem 18 — finding the highest possible sum along a path from the top of a triangle to the bottom, moving to an adjacent number on the row below at each step — but for a much larger 100-row triangle, read from an input file rather than hardcoded.

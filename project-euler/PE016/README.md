@@ -1,5 +1,7 @@
 # Project Euler - Problem 16
 
+[Original problem on Project Euler](https://projecteuler.net/problem=16)
+
 ## Problem
 
 Take 2^15, which works out to 32768 — adding up its digits (3, 2, 7, 6, and 8) gives 26. Using that same idea, determine what the digits of 2^1000 add up to.

@@ -1,5 +1,7 @@
 # Project Euler - Problem 15
 
+[Original problem on Project Euler](https://projecteuler.net/problem=15)
+
 ## Problem
 
 Starting at one corner of a grid and moving only right or down, there are exactly 6 distinct paths to reach the opposite corner of a 2×2 grid. Determine how many such paths exist across a 20×20 grid.

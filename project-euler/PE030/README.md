@@ -1,5 +1,7 @@
 # Project Euler - Problem 30
 
+[Original problem on Project Euler](https://projecteuler.net/problem=30)
+
 ## Problem
 
 Some numbers equal the sum of the fifth powers of their own digits — for instance, 4150 is one such number, since 4^5 + 1^5 + 5^5 + 0^5 equals 4150. Find the sum of every number that has this property, excluding the single-digit numbers 1 and 2 (which trivially satisfy it in a degenerate way).

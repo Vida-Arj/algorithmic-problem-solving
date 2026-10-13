@@ -1,5 +1,7 @@
 # Project Euler - Problem 7
 
+[Original problem on Project Euler](https://projecteuler.net/problem=7)
+
 ## Problem
 
 By listing the first six prime numbers (2, 3, 5, 7, 11, and 13), it can be seen that the 6th prime is 13. Find the 10,001st prime number.

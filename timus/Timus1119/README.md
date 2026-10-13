@@ -1,5 +1,7 @@
 # Timus - Problem 1119
 
+[Original problem on Timus Online Judge](https://acm.timus.ru/problem.aspx?space=1&num=1119)
+
 ## Problem
 
 The streets of a city form a grid of square quarters, each with sides of 100 meters. A walker starts at the south-west corner of the grid and wants to reach the north-east corner of the quarter at position (N, M), where N and M (each at most 1000) are the west–east and south–north sizes of the grid. The walker only ever moves north or east along the streets, but K of the quarters (K ≤ 100) can also be crossed along their diagonal, from the quarter's south-west corner to its north-east corner. Find the length of the shortest route in meters, rounded to the nearest whole number. For the sample with a 3 × 2 grid and diagonal quarters at (1, 1), (3, 2), and (1, 2), the answer is 383.

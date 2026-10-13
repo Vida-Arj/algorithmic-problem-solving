@@ -1,5 +1,7 @@
 # Project Euler - Problem 29
 
+[Original problem on Project Euler](https://projecteuler.net/problem=29)
+
 ## Problem
 
 Computing a^b for every combination of a and b within a given range produces a set of values, some of which repeat. For example, using 2 ≤ a ≤ 5 and 2 ≤ b ≤ 5 produces 15 distinct values once duplicates are removed. Using 2 ≤ a ≤ 100 and 2 ≤ b ≤ 100 instead, find how many distinct values are produced.

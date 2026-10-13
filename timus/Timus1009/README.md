@@ -1,5 +1,7 @@
 # Timus - Problem 1009
 
+[Original problem on Timus Online Judge](https://acm.timus.ru/problem.aspx?space=1&num=1009)
+
 ## Problem
 
 Count how many numbers written in base K have exactly N digits and never contain two zeros in a row. A number written with leading zeros is counted by its real length, so the first digit can't be zero. The inputs satisfy 2 ≤ K ≤ 10, N ≥ 2, and N + K ≤ 18. The program reads N and K (each on its own line) from standard input and prints the count. For example, N = 2 and K = 10 gives 90.

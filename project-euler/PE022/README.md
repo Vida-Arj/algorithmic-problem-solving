@@ -1,5 +1,7 @@
 # Project Euler - Problem 22
 
+[Original problem on Project Euler](https://projecteuler.net/problem=22)
+
 ## Problem
 
 A text file contains several thousand first names, each wrapped in quotes and separated by commas. After sorting these names alphabetically, a score is calculated for each one: the sum of its letters' positions in the alphabet (A = 1, B = 2, and so on), multiplied by its position in the sorted list. Find the total of every name's score added together.

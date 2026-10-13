@@ -1,5 +1,7 @@
 # Project Euler - Problem 31
 
+[Original problem on Project Euler](https://projecteuler.net/problem=31)
+
 ## Problem
 
 Using a set of standard coin denominations — 1p, 2p, 5p, 10p, 20p, 50p, £1, and £2 — determine the number of distinct ways these coins can be combined to total exactly £2 (200 pence), using any quantity of each coin.

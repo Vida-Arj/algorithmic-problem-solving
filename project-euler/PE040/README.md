@@ -1,5 +1,7 @@
 # Project Euler - Problem 40
 
+[Original problem on Project Euler](https://projecteuler.net/problem=40)
+
 ## Problem
 
 Imagine writing out the positive integers one after another to form a fractional number: 0.123456789101112... Find the product of the digits at seven specific positions after the decimal point: the 1st, 10th, 100th, 1,000th, 10,000th, 100,000th, and 1,000,000th.

@@ -1,5 +1,7 @@
 # Project Euler - Problem 32
 
+[Original problem on Project Euler](https://projecteuler.net/problem=32)
+
 ## Problem
 
 A number is called 1-to-9 pandigital if it uses each of the digits 1 through 9 exactly once across its full representation. Find the sum of all distinct products in multiplication equations (multiplicand × multiplier = product) where the multiplicand, multiplier, and product together form a 1-to-9 pandigital set of digits.

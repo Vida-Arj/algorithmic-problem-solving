@@ -1,5 +1,7 @@
 # Project Euler - Problem 25
 
+[Original problem on Project Euler](https://projecteuler.net/problem=25)
+
 ## Problem
 
 Each term in the Fibonacci sequence is built by adding the two terms that came before it, with the sequence beginning at 1 and 1. Determine the position, within this sequence, of the first term that reaches 1,000 digits in length.

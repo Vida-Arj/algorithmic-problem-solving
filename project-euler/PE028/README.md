@@ -1,5 +1,7 @@
 # Project Euler - Problem 28
 
+[Original problem on Project Euler](https://projecteuler.net/problem=28)
+
 ## Problem
 
 Numbers can be arranged in a square spiral, starting from 1 at the center and winding outward. For a 5×5 spiral built this way, the sum of the numbers that fall on either diagonal is 101. Find the equivalent diagonal sum for a 1001×1001 spiral.

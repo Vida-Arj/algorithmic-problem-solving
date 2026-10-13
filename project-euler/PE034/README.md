@@ -1,5 +1,7 @@
 # Project Euler - Problem 34
 
+[Original problem on Project Euler](https://projecteuler.net/problem=34)
+
 ## Problem
 
 Some numbers equal the sum of the factorials of their own digits — for example, 145 is one such number, since 1! + 4! + 5! equals 145. Find the sum of every number with this property (excluding the single-digit numbers 1 and 2, which trivially satisfy it).

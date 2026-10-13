@@ -1,5 +1,7 @@
 # Project Euler - Problem 18
 
+[Original problem on Project Euler](https://projecteuler.net/problem=18)
+
 ## Problem
 
 Given a triangle of numbers with 15 rows, a path runs from the single number at the top down to the bottom row, where each step can move to either of the two numbers directly beneath the current one. Find the highest possible sum obtainable along any such path.

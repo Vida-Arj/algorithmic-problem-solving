@@ -1,5 +1,7 @@
 # Project Euler - Problem 8
 
+[Original problem on Project Euler](https://projecteuler.net/problem=8)
+
 ## Problem
 
 Given a 1000-digit number, find the thirteen adjacent digits whose product is the greatest, and determine what that product is.

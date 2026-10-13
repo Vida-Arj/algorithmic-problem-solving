@@ -1,5 +1,7 @@
 # Project Euler - Problem 14
 
+[Original problem on Project Euler](https://projecteuler.net/problem=14)
+
 ## Problem
 
 Starting from any positive integer n, a chain can be built by repeatedly halving n when it's even, or turning it into 3n + 1 when it's odd. It's conjectured (though unproven) that every such chain eventually reaches 1 regardless of the starting number. Among all starting numbers below one million, find the one that produces the longest chain before reaching 1.

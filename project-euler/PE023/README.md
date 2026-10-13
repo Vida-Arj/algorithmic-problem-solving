@@ -1,5 +1,7 @@
 # Project Euler - Problem 23
 
+[Original problem on Project Euler](https://projecteuler.net/problem=23)
+
 ## Problem
 
 A number is called abundant if the sum of its proper divisors is greater than the number itself. It's known that every integer greater than 28123 can be written as the sum of two abundant numbers. Find the sum of all positive integers that cannot be expressed as the sum of two abundant numbers.

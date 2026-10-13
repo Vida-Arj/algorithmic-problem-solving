@@ -1,5 +1,7 @@
 # Project Euler - Problem 36
 
+[Original problem on Project Euler](https://projecteuler.net/problem=36)
+
 ## Problem
 
 Some numbers read the same forwards and backwards in both base 10 and base 2 — for instance, 585 is 1001001001 in binary, and both representations are palindromic. Find the sum of every number below one million that has this double-palindrome property in both bases (without allowing leading zeros in either representation).

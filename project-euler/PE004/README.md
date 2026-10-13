@@ -1,5 +1,7 @@
 # Project Euler - Problem 4
 
+[Original problem on Project Euler](https://projecteuler.net/problem=4)
+
 ## Problem
 
 A palindromic number reads the same both ways. Find the largest palindrome made from the product of two 3-digit numbers.

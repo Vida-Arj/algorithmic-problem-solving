@@ -17,7 +17,7 @@ Solutions to algorithmic problems I've worked through over time, as a way to kee
 
 ## Overview
 
-I'm a Computer Science graduate, and I solved these problems — mostly from Project Euler and Timus — to reinforce what I learned during my ACM training. This repository is organized by source, with each problem kept in its own folder along with a short write-up of my approach.
+I'm a Computer Science graduate, and I solved these problems — mostly from [Project Euler](https://projecteuler.net) and [Timus](https://acm.timus.ru) — to reinforce what I learned during my ACM training. This repository is organized by source, with each problem kept in its own folder along with a short write-up of my approach.
 
 ---
 

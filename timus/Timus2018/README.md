@@ -1,5 +1,7 @@
 # Timus - Problem 2018
 
+[Original problem on Timus Online Judge](https://acm.timus.ru/problem.aspx?space=1&num=2018)
+
 ## Problem
 
 An album consists of n tracks, and each track is a remix of one of two songs, written as 1 or 2. The album is only acceptable if it never has more than `a` remixes of song 1 in a row, and never has more than `b` remixes of song 2 in a row. Count the number of different acceptable albums, where an album is a sequence of 1s and 2s of length n, and print the result modulo 1,000,000,007. The inputs satisfy 1 ≤ a, b ≤ 300 and max(a, b) + 1 ≤ n ≤ 50,000. For n = 3, a = 2, and b = 1, the acceptable albums are 112, 121, 211, and 212, so the answer is 4.

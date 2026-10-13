@@ -1,5 +1,7 @@
 # Project Euler - Problem 1
 
+[Original problem on Project Euler](https://projecteuler.net/problem=1)
+
 ## Problem
 
 Find the sum of all natural numbers below 1000 that are multiples of 3 or 5.

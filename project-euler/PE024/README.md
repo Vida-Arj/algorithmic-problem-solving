@@ -1,5 +1,7 @@
 # Project Euler - Problem 24
 
+[Original problem on Project Euler](https://projecteuler.net/problem=24)
+
 ## Problem
 
 A permutation is simply a rearrangement of a set of items. If every possible arrangement of the digits 0 through 9 is listed in numerical order, find the one-millionth arrangement in that ordered list.

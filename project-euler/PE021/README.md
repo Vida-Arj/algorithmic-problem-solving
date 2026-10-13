@@ -1,5 +1,7 @@
 # Project Euler - Problem 21
 
+[Original problem on Project Euler](https://projecteuler.net/problem=21)
+
 ## Problem
 
 For any number, its proper divisors are the numbers smaller than it that divide into it evenly, and summing those gives a related value. Two distinct numbers are considered a matching pair when each one's divisor sum produces the other. Find the total of every number below 10,000 that takes part in such a pair.

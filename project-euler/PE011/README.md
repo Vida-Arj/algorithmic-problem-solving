@@ -1,5 +1,7 @@
 # Project Euler - Problem 11
 
+[Original problem on Project Euler](https://projecteuler.net/problem=11)
+
 ## Problem
 
 In a 20×20 grid of numbers, find the greatest product of four adjacent numbers in the same direction — horizontally, vertically, diagonally, or counter-diagonally (up, down, left, right, or along a diagonal).

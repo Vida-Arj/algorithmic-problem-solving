@@ -1,5 +1,7 @@
 # Project Euler - Problem 116
 
+[Original problem on Project Euler](https://projecteuler.net/problem=116)
+
 ## Problem
 
 A row of black unit-square tiles can have some of its tiles covered by longer coloured tiles: red tiles are 2 units long, green tiles are 3 units long, and blue tiles are 4 units long. A single row may only use one colour, and at least one coloured tile must be placed. For a row that is 5 units long, this gives 7 arrangements with red, 3 with green, and 2 with blue, for a total of 12. Find the total number of valid arrangements for a row that is 50 units long.

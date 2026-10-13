@@ -1,5 +1,7 @@
 # Project Euler - Problem 96
 
+[Original problem on Project Euler](https://projecteuler.net/problem=96)
+
 ## Problem
 
 A Sudoku puzzle is a 9×9 grid that must be filled in so that every row, every column, and each of the nine 3×3 boxes contains the digits 1 through 9 exactly once. A provided text file holds fifty such puzzles, each with exactly one valid solution, where a 0 marks an empty cell. After solving every puzzle, read the first three digits of each completed grid's top row as a three-digit number, and find the sum of those fifty numbers.
